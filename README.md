@@ -50,7 +50,7 @@ ___
   <p>➡ Baixe meu projeto em zip. <p>
 
   <p>➡ Após isso, extraia para uma pasta (Necessário ter Win Rar) </p>
-  <p>➡ Se extraiu, entre na pasta, e clique com o botão direito no arquivo "index.html" </p>
+  <p>➡ Entre na pasta, e clique com o botão direito no arquivo "index.html" </p>
   
   <p>➡ Após isso, selecione abrir com, e escolha o seu navegador</p>
 
